@@ -9,3 +9,11 @@ Another talk on Digital Infrastructure exposed us to the UTM Data Centre and exp
 In addition, the System Development talk discussed software development processes, project management, and the agile methodology. The speaker shared practical examples that helped us understand how systems are developed in professional environments.
 
 Besides the talks, we visited booths hosted by various companies and departments. These booths showcased how digital technologies are integrated into functional systems used in daily life. We also had the opportunity to interview staff members, who shared their experiences and advice about working in the digital industry. Overall, the UTM Digital Open Day was a meaningful and inspiring experience that increased my interest in the digital field.
+
+![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/aca9d73f2fd036e555ebc7958d6a47a6a00b452a/pic%20utm%20digital%204.jpg)<br>
+
+![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/aca9d73f2fd036e555ebc7958d6a47a6a00b452a/pic%20utm%20digital%201.jpg)<br>
+
+![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/69ae4d643849ad59a5ba4974d41ba8e38a5a06bd/pic%20utm%20digital%202.jpg)<br>
+
+![image alt](https://github.com/aleyasara05/UTM-DIGITAL-OPEN-DAY/blob/69ae4d643849ad59a5ba4974d41ba8e38a5a06bd/pic%20utm%20digital%203.jpg)<br>
